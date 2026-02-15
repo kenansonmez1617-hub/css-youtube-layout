@@ -2,7 +2,7 @@
 <html lang="tr">
 <head>
 <meta charset="UTF-8">
-<title>css-youtube-layout</title>
+
 </head>
 
 <body>
